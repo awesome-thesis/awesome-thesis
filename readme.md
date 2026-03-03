@@ -224,6 +224,7 @@ Check out your long running experiments
 - [Mendeley](https://www.mendeley.com) - Easy referencing
 - [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
 - [Papis](https://github.com/papis/papis) - A Python based command line manager
+- [CiteMe](https://citeme.app) - AI-powered citation generator that searches 11+ academic databases and formats references in 40+ styles (APA, MLA, Chicago, IEEE, etc.)
 
 
 #### Searching and indexing code
