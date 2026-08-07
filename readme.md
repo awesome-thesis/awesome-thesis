@@ -137,6 +137,7 @@ Running benchmarks is a delicate part of your thesis, these resources will help 
 ### Scientific writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 - [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
+- [research-skills](https://github.com/Alexyskoutnev/research-skills) - Ten agent skills covering one paper section each, abstract to rebuttal, with recipes and mechanical checklists drawn from accepted papers
 - [How to write a research paper](https://docs.google.com/presentation/d/1LGcM3Jmd5ZkoYfn1Bph4W4-lYQD0lDnrtOKe3IpTiAs/edit?usp=sharing) - these awesome tips also apply to your thesis
 
 ### Writer's block
