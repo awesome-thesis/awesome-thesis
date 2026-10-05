@@ -176,6 +176,7 @@ Use high resolution scalar images (PNG), or vectorial formats (SVG/PDF) for imag
 Almost there! がんばって!
 
 - [Presentation Advices](https://www.ifte.de/infos/dissertation/presentationAdvices.pdf)
+- [Will a Laser Pointer Show Up in a Screen Share?](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) - Distinguish a physical laser dot from shared-slide annotations and rehearse the remote audience view in Zoom or Teams.
 
 ## Mental health
 Student mental health resources.
