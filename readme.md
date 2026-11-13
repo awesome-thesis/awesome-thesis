@@ -90,6 +90,7 @@ Searching for information can be a daunting task.
 
 ### Tools
 - [Concept, mind, and argument mapping](https://link.springer.com/article/10.1007/s10734-010-9387-6) - different kinds of mind-mapping explained
+- [Glasp](https://glasp.co/) - Highlighter for web pages and PDFs that also shows YouTube transcripts, with export of highlights and notes to Markdown, Notion and Obsidian
 
 
 ## Artifacts
