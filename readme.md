@@ -225,7 +225,7 @@ Check out your long running experiments
 - [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
 - [Papis](https://github.com/papis/papis) - A Python based command line manager
 - [CiteMe](https://citeme.app) - AI-powered citation generator that searches 11+ academic databases and formats references in 40+ styles (APA, MLA, Chicago, IEEE, etc.)
-- [HumanPen](https://humanpen.net/) - Document-level academic & research writing platform (Humanize for DOCX/PPTX/TXT, Translate across 12 languages for PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT, Condense for DOCX, Citation Format Correction across 12 styles, and scoped Research Projects; commercial credit-based SaaS with 100 signup credits)
+- [HumanPen](https://humanpen.net/) - Document-level academic & research writing platform (Humanize for DOCX/PPTX/TXT, Translate across 12 languages for PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT, Condense for DOCX, Citation Format Correction across 12 styles, and scoped Research Projects; commercial credit-based SaaS with 100 one-time signup credits)
 
 
 #### Searching and indexing code
