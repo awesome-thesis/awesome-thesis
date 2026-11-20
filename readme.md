@@ -225,6 +225,7 @@ Check out your long running experiments
 - [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
 - [Papis](https://github.com/papis/papis) - A Python based command line manager
 - [CiteMe](https://citeme.app) - AI-powered citation generator that searches 11+ academic databases and formats references in 40+ styles (APA, MLA, Chicago, IEEE, etc.)
+- [citeparse](https://github.com/un-seen/citeparse) - Turns pasted references into CSL-JSON or BibTeX on a laptop CPU and flags wrong DOIs and invented citations via Crossref and OpenAlex
 
 
 #### Searching and indexing code
